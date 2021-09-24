@@ -1,4 +1,4 @@
-# Creation-of-a-Private-Blockchain
+# Creation of a Private Blockchain
 Proof of Authority Development Chain
 
 1. First I navigated to the Blockchain Tools Folder where my Ethereum Tools are saved on my desktop.  Then I created my first node name “homeworknode1” using the code below.  
